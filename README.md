@@ -2,8 +2,8 @@
 Un site de location de voiture réaliser en laravel
 
 
--composer update
--creer la base de donne et le lier au fichier .env
+#composer update
+#creer la base de donne et le lier au fichier .env
 -npm install
 -php rtisan key:generate
 -php artisan storage:link
