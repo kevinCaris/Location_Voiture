@@ -12,7 +12,9 @@ Le but de ce projet est de développer une application de gestion de location de
 - Connexion obligatoire pour louer un véhicule.
 - Consultation de la liste des véhicules possible en mode non connecté.
 - Ajout, modification, et suppression de véhicules réservé aux profils administrateurs.
-  ##Lancer le projet
+
+##Lancer le projet
+
 #composer update
 
 #creer la base de donne et le lier au fichier .env
